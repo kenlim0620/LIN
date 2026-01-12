@@ -1,0 +1,40 @@
+---
+title: "Hand-on Exercise 1"
+format: 
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-location: left
+    code-fold: show
+    code-tools: true
+    theme: cosmo
+editor: visual
+---
+
+# ***This is the first hand-on exercise***
+
+```{r}
+#| label: fig-test
+#| echo: fenced
+#| fig-cap: "Test-Figure"
+plot(2:9,2:9)
+```
+
+See Figure 1[@fig-test]
+
+# ***This is the second hand-on exercise***
+
+```{r}
+#| echo: true
+1+2
+```
+
+-   this is 3
+
+-   4
+
+::: callout-warning
+## This is a warning
+
+stop
+:::
