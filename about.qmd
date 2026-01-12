@@ -2,4 +2,4 @@
 title: "In-class Exercises"
 ---
 
-**This is In-class**
+**This is In-class Exercise**
