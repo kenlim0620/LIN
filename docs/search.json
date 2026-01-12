@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "ISSS608-website/about.html",
+    "href": "ISSS608-website/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "hand-on-01.html",
     "href": "hand-on-01.html",
     "title": "Hand-on Exercise 1",
@@ -33,5 +40,12 @@
     "title": "ISSS608-Visual Analytics & Applications",
     "section": "",
     "text": "Welcome to LIN XIANWEI’ s Visual Analytics Home Page.\nIn this website, you can find my any coursework for this module."
+  },
+  {
+    "objectID": "ISSS608-website/index.html",
+    "href": "ISSS608-website/index.html",
+    "title": "ISSS608-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
