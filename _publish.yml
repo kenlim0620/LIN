@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ea86f28e-f6e8-4e76-8bde-33e418d76b53
+      url: https://glittery-licorice-075dd3.netlify.app

@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "take-home.html",
+    "href": "take-home.html",
+    "title": "Take-Home Exercises",
+    "section": "",
+    "text": "This is Take Home"
+  },
+  {
     "objectID": "ISSS608-website/about.html",
     "href": "ISSS608-website/about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "hand-on.html",
+    "href": "hand-on.html",
+    "title": "Hands-on Exercises",
+    "section": "",
+    "text": "This is hands-on"
   },
   {
     "objectID": "hand-on-01.html",
@@ -25,14 +39,14 @@
     "href": "about.html",
     "title": "In-class Exercises",
     "section": "",
-    "text": "This is In-class"
+    "text": "This is In-class Exercise"
   },
   {
     "objectID": "hand-on-02.html",
     "href": "hand-on-02.html",
     "title": "Hand-on Exercise 2",
     "section": "",
-    "text": "this"
+    "text": "this is hands-on 2"
   },
   {
     "objectID": "index.html",

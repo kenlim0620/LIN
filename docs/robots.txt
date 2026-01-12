@@ -1,1 +1,1 @@
-Sitemap: https://weatherwise-sg.netlify.app/sitemap.xml
+Sitemap: https://glittery-licorice-075dd3.netlify.app/sitemap.xml
