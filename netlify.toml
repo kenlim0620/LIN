@@ -1,6 +1,3 @@
 [build]
-  command = "quarto render"
+  command = "scripts\\build.bat"
   publish = "_site"
-
-[[plugins]]
-  package = "@quarto/netlify-plugin-quarto"
