@@ -5,8 +5,8 @@ project:
 website:
   title: "ISSS608_LIN XIANWEI Profile"
   description: "Interactive visual analytics for climate resilience"
-  site-url: "https://weatherwise-sg.netlify.app"
-  repo-url: "https://github.com/yourteam/iss608-weatherwise"
+  site-url: "https://glittery-licorice-075dd3.netlify.app/"
+  repo-url: "https://github.com/kenlim0620"
   repo-actions: [edit, issue]
   
   page-footer:
@@ -15,7 +15,6 @@ website:
     left: "© 2026 ISSS608 Team"
     right: 
       - icon: github
-        href: https://github.com/yourteam/iss608-weatherwise
   
   navbar:
     background: primary
