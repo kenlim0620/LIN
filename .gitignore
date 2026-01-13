@@ -1,9 +1,15 @@
-.Rproj.user
+# RStudio files
+.Rproj.user/
 .Rhistory
 .RData
+
+# Other ignores
 .httr-oauth
 .DS_Store
-.quarto
 
-/.quarto/
+# Quarto files
+.quarto/
 **/*.quarto_ipynb
+
+# Netlify build output - DO NOT COMMIT THIS FOLDER
+_site/
