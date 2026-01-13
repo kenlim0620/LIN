@@ -2,6 +2,6 @@
   "name": "my-quarto-site",
   "version": "1.0.0",
   "dependencies": {
-    "netlify-plugin-quarto": "^1.0.0"
+    "@quarto/netlify-plugin-quarto": "^0.0.5"
   }
 }
